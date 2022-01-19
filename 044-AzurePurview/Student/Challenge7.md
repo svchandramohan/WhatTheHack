@@ -4,7 +4,7 @@
 
 ## Description
 
-There is quite a lot of metadata available already in Fabrikam's data catalog. There is an ask from Chief Data Officer in your company to briefly review current state of data environment. CDO is looking for information like what sources you have in the environment and with what type of data. 
+There is quite a lot of metadata available already in Fabrikam's data catalog. You have received an ask from Chief Data Officer in your organization to briefly review current state of data environment. CDO is looking for information like what sources you have in the environment and what type of data. 
 
 ## Introduction
 
