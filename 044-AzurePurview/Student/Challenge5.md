@@ -15,12 +15,13 @@ In this challenge you will setup a business glossary with terms that have been p
 Ensure that these terms can be used for searching these tagged assets and can also be used as filter conditions for the search.
 
 ## Success Criteria
-- Create a custom glossary template.
-- Tag assets (singly and in bulk) with the defined glossary terms.
-- Confirm that the newly applied tags can be used to filter the search results.
 
-## Extended challenge
-- Thoughts?
+- Create new term 'Team Unit' and assign yourself as an Term Expert.
+- Create new terms 'Account Team Unit', 'Specialist Team Unit' with additional custom field "Microsoft Terminology" 
+- Create realtionships between previously created terms.
+- Bulk load terms provided in .CSV file.
+- Assign terms to assets scanned in previous challenges.
+- Confirm that the newly applied tags can be used to filter the search results.
 
 ## Learning Resources
 - https://docs.microsoft.com/en-us/azure/purview/concept-business-glossary
