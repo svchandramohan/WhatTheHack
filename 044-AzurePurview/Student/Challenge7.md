@@ -15,9 +15,6 @@ With your current Azure Purview environemnt, you are able to see individual meta
 - Check which areas of Purview requires your attention.
 - Fix issues you have discovered.
 
-## Extended challenge
-- Thoughts?
-
 ## Learning Resources
 - https://docs.microsoft.com/en-us/azure/purview/concept-insights
 - https://docs.microsoft.com/en-us/azure/purview/asset-insights
